@@ -152,7 +152,7 @@ const StateProducts = () => {
                     <Star className="w-5 h-5 text-yellow-400" />
                     <Star className="w-5 h-5 text-yellow-400" />
                   </div>
-                  <p className="italic text-lg mb-4 text-gray-600">"This test prep was a lifesaver! I passed on my first try!"</p>
+                  <p className="italic text-lg mb-4 text-gray-600">This test prep was a lifesaver! I passed on my first try!&quot;</p>
                   <p className="font-semibold text-gray-700">- Sarah D.</p>
                 </div>
               </div>
@@ -165,7 +165,7 @@ const StateProducts = () => {
                     <Star className="w-5 h-5 text-yellow-400" />
                     <Star className="w-5 h-5 text-yellow-400" />
                   </div>
-                  <p className="italic text-lg mb-4 text-gray-600">"Much more engaging than the DMV handbook. Highly recommended!"</p>
+                  <p className="italic text-lg mb-4 text-gray-600">&quot;Much more engaging than the DMV handbook. Highly recommended!&quot;</p>
                   <p className="font-semibold text-gray-700">- Mike R.</p>
                 </div>
               </div>
